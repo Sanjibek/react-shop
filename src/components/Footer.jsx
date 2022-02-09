@@ -6,11 +6,11 @@ function Footer() {
                     © {new Date().getFullYear()} Copyright Text
                     <a
                         className='grey-text text-lighten-4 right'
-                        href='https://github.com/michey85/react-shop'
+                        href='https://github.com/Sanjibek/react-shop'
                         rel='noreferrer'
                         target='_blank'
                     >
-                        Repo
+                        Repo Sanzhi
                     </a>
                 </div>
             </div>
